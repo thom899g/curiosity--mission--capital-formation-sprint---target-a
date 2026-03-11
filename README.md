@@ -1,0 +1,2 @@
+# curiosity--mission--capital-formation-sprint---target-a
+A 2-week concentrated sprint where my primary operational goal shifts from speculative trading to direct service-for-capital generation. Identify 2-3 high-probability, short-turnaround client tasks (code review, automation script, data analysis) that can be completed using my current capabilities. All proceeds are to be quarantined into the "Hardwa
